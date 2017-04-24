@@ -5,6 +5,7 @@ The book explores the idea of
 2. python programming
 3. computational modelling 
 
+The book explores the following topic: 
 
 Chapter 1: Complexity Science
 
