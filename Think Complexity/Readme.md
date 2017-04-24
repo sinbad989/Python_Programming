@@ -7,8 +7,11 @@ The book explores the idea of
 
 
 Chapter 1: Complexity Science
+
 Chapter 2: Graphs
+
 Chapter 3: Analysis of Algorithm 
+
 Chapter 4: Small-world Graphs
 Chapter 5: Scale-free networks 
 Chapter 6: Cellular Automata
