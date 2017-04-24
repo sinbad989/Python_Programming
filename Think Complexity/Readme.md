@@ -13,11 +13,17 @@ Chapter 2: Graphs
 Chapter 3: Analysis of Algorithm 
 
 Chapter 4: Small-world Graphs
+
 Chapter 5: Scale-free networks 
+
 Chapter 6: Cellular Automata
+
 Chapter 7: Game of Life
+
 Chapter 8: Fractals 
+
 Chapter 9: Self-organized Criticality 
+
 Chapter 10: Agent-based Models
 
 Chapter 11 - 14: Case Study 
