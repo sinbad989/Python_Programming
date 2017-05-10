@@ -1,3 +1,3 @@
 # Python Mastery 
 
-**Contains the codes I have written to 'master' the Python Language.**
+**Contains the codes I wrote to 'master' the Python Language.**
