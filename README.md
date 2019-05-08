@@ -1,24 +1,36 @@
 # Python Mastery 
 
-- a repository of ipython notebook and script on web scraping, natural language processing, data science, network science, and others based on python programming language. 
+- a collection of `ipython` notebook and script from various books
 
 
+
+### Quantum Transport
+
+- [Quantum Transport - Atoms to Transistors](<https://sinbad989.github.io/bookreading/qtdatta.html>)
+
+### Mastering Scipy
+
+- banded matrix manipulation using scipy
+
+### Think Complexity
+
+- learning network complexity theory through programming basic network science problems in python
 
 ### Web Scraping
 
 - data extraction and harvesting from various web sources
 
-### Natural Language Processing
+
+
+### Others: 
+
+**Natural Language Processing**
 
 - processing of text for analysis
 
-### Network Science
-
-- learning network complexity theory through programming basic network science problems in python
-
-### Data Science
+**Data Science**
 
 - application of data science workflow in solving problems using python
 
-
+**CodeFight**
 
